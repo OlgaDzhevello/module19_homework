@@ -1,0 +1,11 @@
+# Ignore directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+index.html
+README.md
+script.js
